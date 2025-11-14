@@ -1,5 +1,6 @@
 # FUTURE_DS_02
 Task 2 – Social Media Marketing Analytics Dashboard (Power BI)
+
 📌 Project Description
 
 This project focuses on analyzing social media marketing performance using a structured dataset.
@@ -103,3 +104,5 @@ Microsoft Power BI
 Microsoft Excel
 
 DAX (Data Analysis Expressions)
+📸 Dashboard Preview
+![Dashboard Screenshot] <img width="1338" height="715" alt="social media campaign dashboard" src="https://github.com/user-attachments/assets/3ae5c03f-c6c5-4afe-a20b-9f8a6508625d" />
